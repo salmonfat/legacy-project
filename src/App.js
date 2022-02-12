@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ethers,utils } from "ethers";
+import { ethers , utils } from "ethers";
 import abi from "./contract/legacyProject.json";
 
 function App() {
