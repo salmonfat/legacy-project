@@ -179,7 +179,7 @@ function App() {
           <p>how much can be claimed each period: {amountPerPeriod} ETH</p>
       </div>
       <div>
-          <h4>creat your own legacy contract.</h4>
+          <h4>creat your own legacy contract. (On Rinkeby testnet)</h4>
           <p>1. assign who will be the inheritor.</p>
           <p>2. insert how much ETH you want to be the legacy.</p>
           <p>3. insert how many instalments you would like this contract to pay your legacy to your inheritor after your pass away?</p>
