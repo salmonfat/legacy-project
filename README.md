@@ -1,4 +1,4 @@
-please visit the website: https://legacy-project-dapp-kg104c9t8-salmonfat.vercel.app/
+please visit the website: https://legacy-project-dapp-salmonfat.vercel.app/
 
 This project is letting people set a legacy contract to prevent losing asset if the owner pass away before telling inheritor his/her wallet private key.
 The legacy can also be setted as installment to prevent inheritor spending the money in short time.
