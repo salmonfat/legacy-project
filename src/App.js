@@ -156,7 +156,7 @@ function App() {
   return (
     <main>
       {error &&<p>{error}</p>}
-      <h2>legacy project DAPP</h2>
+      <h2>legacy project DAPP (On Rinkeby testnet)</h2>
       <div>
         {isWallectConnect &&(<p>your address:{yourWalletAddress} </p>)}
         {!isWallectConnect &&(<button onClick={checkWalletConnect}> connect wallet </button>)}
@@ -179,7 +179,7 @@ function App() {
           <p>how much can be claimed each period: {amountPerPeriod} ETH</p>
       </div>
       <div>
-          <h4>creat your own legacy contract. (On Rinkeby testnet)</h4>
+          <h4>creat your own legacy contract.</h4>
           <p>1. assign who will be the inheritor.</p>
           <p>2. insert how much ETH you want to be the legacy.</p>
           <p>3. insert how many instalments you would like this contract to pay your legacy to your inheritor after your pass away?</p>
